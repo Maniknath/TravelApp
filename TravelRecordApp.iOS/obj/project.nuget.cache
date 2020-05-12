@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "czScArtumE5XUiCRoADySs3OJqmHrbG5pchuAZufBPRS8hoQdbrjbiAxcI0BVSWFl7cE7Ih8OHzxTpj8FwvYKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manik\\OneDrive\\Desktop\\Xamarin Projects\\TravelRecordApp\\TravelRecordApp.iOS\\TravelRecordApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manik\\.nuget\\packages\\sqlite-net-pcl\\1.6.292\\sqlite-net-pcl.1.6.292.nupkg.sha512",
+    "C:\\Users\\manik\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.13\\sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
+    "C:\\Users\\manik\\.nuget\\packages\\sqlitepclraw.core\\1.1.13\\sqlitepclraw.core.1.1.13.nupkg.sha512",
+    "C:\\Users\\manik\\.nuget\\packages\\sqlitepclraw.provider.sqlite3.ios_unified\\1.1.13\\sqlitepclraw.provider.sqlite3.ios_unified.1.1.13.nupkg.sha512",
+    "C:\\Users\\manik\\.nuget\\packages\\xamarin.essentials\\1.5.3.1\\xamarin.essentials.1.5.3.1.nupkg.sha512",
+    "C:\\Users\\manik\\.nuget\\packages\\xamarin.forms\\4.6.0.726\\xamarin.forms.4.6.0.726.nupkg.sha512",
+    "C:\\Users\\manik\\.nuget\\packages\\xamarin.forms.maps\\4.6.0.726\\xamarin.forms.maps.4.6.0.726.nupkg.sha512"
+  ],
+  "logs": []
+}
