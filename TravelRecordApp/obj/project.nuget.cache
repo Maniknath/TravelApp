@@ -1,16 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "/NRfqbTkWqzy3pLl3p9imXDEyP/3Ao9wpCMK0C49h6f/pnXbmr6lGCEd92ZRZLfDwe3dCYnvpYzLkv6r3AHE+g==",
+  "dgSpecHash": "TgWJvmcwQKictgfQFppVs/IBLXQWW4430YiDK20VUSlCTMDD8sJMba5aFMI/WiTK7EHG/IsOgNAw/OnApecntg==",
   "success": true,
   "projectFilePath": "C:\\Users\\manik\\OneDrive\\Desktop\\Xamarin Projects\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\manik\\.nuget\\packages\\plugin.permissions\\6.0.1\\plugin.permissions.6.0.1.nupkg.sha512",
     "C:\\Users\\manik\\.nuget\\packages\\sqlite-net-pcl\\1.6.292\\sqlite-net-pcl.1.6.292.nupkg.sha512",
     "C:\\Users\\manik\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.13\\sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
     "C:\\Users\\manik\\.nuget\\packages\\sqlitepclraw.core\\1.1.13\\sqlitepclraw.core.1.1.13.nupkg.sha512",
     "C:\\Users\\manik\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\manik\\.nuget\\packages\\xamarin.essentials\\1.5.3.1\\xamarin.essentials.1.5.3.1.nupkg.sha512",
+    "C:\\Users\\manik\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Users\\manik\\.nuget\\packages\\xamarin.forms\\4.6.0.726\\xamarin.forms.4.6.0.726.nupkg.sha512",
     "C:\\Users\\manik\\.nuget\\packages\\xamarin.forms.maps\\4.6.0.726\\xamarin.forms.maps.4.6.0.726.nupkg.sha512"
   ],

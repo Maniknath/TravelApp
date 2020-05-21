@@ -17,4 +17,3 @@ C:\Users\manik\OneDrive\Desktop\Xamarin Projects\TravelRecordApp\TravelRecordApp
 C:\Users\manik\OneDrive\Desktop\Xamarin Projects\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\PostDetailPage.xaml.g.cs
 C:\Users\manik\OneDrive\Desktop\Xamarin Projects\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.csproj.CoreCompileInputs.cache
 C:\Users\manik\OneDrive\Desktop\Xamarin Projects\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\XamlC.stamp
-C:\Users\manik\OneDrive\Desktop\Xamarin Projects\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.csprojAssemblyReference.cache

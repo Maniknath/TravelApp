@@ -42,9 +42,13 @@
       "frameworks": {
         "monoandroid90": {
           "dependencies": {
+            "Plugin.Permissions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.5.3.1, )"
+              "version": "[1.5.3.2, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
@@ -107,9 +111,13 @@
               "version": "[2.0.3, )",
               "autoReferenced": true
             },
+            "Plugin.Permissions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.5.3.1, )"
+              "version": "[1.5.3.2, )"
             },
             "Xamarin.Forms": {
               "target": "Package",

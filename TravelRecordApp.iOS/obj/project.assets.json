@@ -2,6 +2,21 @@
   "version": 3,
   "targets": {
     "Xamarin.iOS,Version=v1.0": {
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "frameworkAssemblies": [
+          "System.Drawing.Common.dll"
+        ],
+        "compile": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {}
+        }
+      },
       "sqlite-net-pcl/1.6.292": {
         "type": "package",
         "dependencies": {
@@ -50,7 +65,7 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll": {}
         }
       },
-      "Xamarin.Essentials/1.5.3.1": {
+      "Xamarin.Essentials/1.5.3.2": {
         "type": "package",
         "frameworkAssemblies": [
           "OpenTK-1.0",
@@ -202,7 +217,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.5.3.1",
+          "Plugin.Permissions": "6.0.1",
+          "Xamarin.Essentials": "1.5.3.2",
           "Xamarin.Forms": "4.6.0.726",
           "Xamarin.Forms.Maps": "4.6.0.726",
           "sqlite-net-pcl": "1.6.292"
@@ -216,6 +232,21 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win": {
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "frameworkAssemblies": [
+          "System.Drawing.Common.dll"
+        ],
+        "compile": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {}
+        }
+      },
       "sqlite-net-pcl/1.6.292": {
         "type": "package",
         "dependencies": {
@@ -264,7 +295,7 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll": {}
         }
       },
-      "Xamarin.Essentials/1.5.3.1": {
+      "Xamarin.Essentials/1.5.3.2": {
         "type": "package",
         "frameworkAssemblies": [
           "OpenTK-1.0",
@@ -416,7 +447,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.5.3.1",
+          "Plugin.Permissions": "6.0.1",
+          "Xamarin.Essentials": "1.5.3.2",
           "Xamarin.Forms": "4.6.0.726",
           "Xamarin.Forms.Maps": "4.6.0.726",
           "sqlite-net-pcl": "1.6.292"
@@ -430,6 +462,21 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x64": {
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "frameworkAssemblies": [
+          "System.Drawing.Common.dll"
+        ],
+        "compile": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {}
+        }
+      },
       "sqlite-net-pcl/1.6.292": {
         "type": "package",
         "dependencies": {
@@ -478,7 +525,7 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll": {}
         }
       },
-      "Xamarin.Essentials/1.5.3.1": {
+      "Xamarin.Essentials/1.5.3.2": {
         "type": "package",
         "frameworkAssemblies": [
           "OpenTK-1.0",
@@ -630,7 +677,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.5.3.1",
+          "Plugin.Permissions": "6.0.1",
+          "Xamarin.Essentials": "1.5.3.2",
           "Xamarin.Forms": "4.6.0.726",
           "Xamarin.Forms.Maps": "4.6.0.726",
           "sqlite-net-pcl": "1.6.292"
@@ -644,6 +692,21 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x86": {
+      "Plugin.Permissions/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Essentials": "1.5.2"
+        },
+        "frameworkAssemblies": [
+          "System.Drawing.Common.dll"
+        ],
+        "compile": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {}
+        },
+        "runtime": {
+          "lib/xamarinios10/Plugin.Permissions.dll": {}
+        }
+      },
       "sqlite-net-pcl/1.6.292": {
         "type": "package",
         "dependencies": {
@@ -692,7 +755,7 @@
           "lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll": {}
         }
       },
-      "Xamarin.Essentials/1.5.3.1": {
+      "Xamarin.Essentials/1.5.3.2": {
         "type": "package",
         "frameworkAssemblies": [
           "OpenTK-1.0",
@@ -844,7 +907,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xamarin.Essentials": "1.5.3.1",
+          "Plugin.Permissions": "6.0.1",
+          "Xamarin.Essentials": "1.5.3.2",
           "Xamarin.Forms": "4.6.0.726",
           "Xamarin.Forms.Maps": "4.6.0.726",
           "sqlite-net-pcl": "1.6.292"
@@ -859,6 +923,37 @@
     }
   },
   "libraries": {
+    "Plugin.Permissions/6.0.1": {
+      "sha512": "na/0FNhyKmSicANWZMLSM0y/FW2AvLoawX3lsvBpELwP15sdJRyuBhRKk1OQjRoNrmTIewcON1tJFyydjMGWcA==",
+      "type": "package",
+      "path": "plugin.permissions/6.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid10.0/Plugin.Permissions.dll",
+        "lib/monoandroid10.0/Plugin.Permissions.pdb",
+        "lib/monoandroid80/Plugin.Permissions.dll",
+        "lib/monoandroid80/Plugin.Permissions.pdb",
+        "lib/monoandroid81/Plugin.Permissions.dll",
+        "lib/monoandroid81/Plugin.Permissions.pdb",
+        "lib/monoandroid90/Plugin.Permissions.dll",
+        "lib/monoandroid90/Plugin.Permissions.pdb",
+        "lib/netstandard1.0/Plugin.Permissions.dll",
+        "lib/netstandard1.0/Plugin.Permissions.pdb",
+        "lib/netstandard2.0/Plugin.Permissions.dll",
+        "lib/netstandard2.0/Plugin.Permissions.pdb",
+        "lib/uap10.0.16299/Plugin.Permissions.dll",
+        "lib/uap10.0.16299/Plugin.Permissions.pdb",
+        "lib/uap10.0.16299/Plugin.Permissions.pri",
+        "lib/xamarinios10/Plugin.Permissions.dll",
+        "lib/xamarinios10/Plugin.Permissions.pdb",
+        "lib/xamarintvos10/Plugin.Permissions.dll",
+        "lib/xamarintvos10/Plugin.Permissions.pdb",
+        "plugin.permissions.6.0.1.nupkg.sha512",
+        "plugin.permissions.nuspec",
+        "readme.txt"
+      ]
+    },
     "sqlite-net-pcl/1.6.292": {
       "sha512": "TZPs206/ZZXhDAgCzxE5Dmw1enkRmtpd1RKt+dLJA6Kvml4RxwkasRs4js2kijtGxik1SLCs39rh9nl9YFwrYg==",
       "type": "package",
@@ -960,10 +1055,10 @@
         "sqlitepclraw.provider.sqlite3.ios_unified.nuspec"
       ]
     },
-    "Xamarin.Essentials/1.5.3.1": {
-      "sha512": "6sE3kGMhES7dsR8ll+ar+roEIFobjPfDskKNMsU4FF6cV27ZsdArGZHxe1QqPPJcMT6PzJsGvA3l5PNMZgw5ng==",
+    "Xamarin.Essentials/1.5.3.2": {
+      "sha512": "BSLgDJUOPFRwTpQaftM+s4qb/MsTjrqXulEYDOcK6KF3i0Orf75zo3RwRfqnQ8WfpoEFxW/v0jgcPWCvOMgHxg==",
       "type": "package",
-      "path": "xamarin.essentials/1.5.3.1",
+      "path": "xamarin.essentials/1.5.3.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1004,7 +1099,7 @@
         "lib/xamarinwatchos10/Xamarin.Essentials.pdb",
         "lib/xamarinwatchos10/Xamarin.Essentials.xml",
         "readme.txt",
-        "xamarin.essentials.1.5.3.1.nupkg.sha512",
+        "xamarin.essentials.1.5.3.2.nupkg.sha512",
         "xamarin.essentials.nuspec"
       ]
     },
@@ -1365,8 +1460,9 @@
   },
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
+      "Plugin.Permissions >= 6.0.1",
       "TravelRecordApp >= 1.0.0",
-      "Xamarin.Essentials >= 1.5.3.1",
+      "Xamarin.Essentials >= 1.5.3.2",
       "Xamarin.Forms >= 4.6.0.726",
       "Xamarin.Forms.Maps >= 4.6.0.726",
       "sqlite-net-pcl >= 1.6.292"
@@ -1414,9 +1510,13 @@
     "frameworks": {
       "xamarinios10": {
         "dependencies": {
+          "Plugin.Permissions": {
+            "target": "Package",
+            "version": "[6.0.1, )"
+          },
           "Xamarin.Essentials": {
             "target": "Package",
-            "version": "[1.5.3.1, )"
+            "version": "[1.5.3.2, )"
           },
           "Xamarin.Forms": {
             "target": "Package",

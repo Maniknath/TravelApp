@@ -100,3 +100,8 @@ C:\Users\manik\OneDrive\Desktop\Xamarin Projects\TravelRecordApp\TravelRecordApp
 C:\Users\manik\OneDrive\Desktop\Xamarin Projects\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\CopyFilesToMac\TravelRecordApp.iOS.pdb.DebugSymbolsProjectOutputGroupOutput.stamp
 C:\Users\manik\OneDrive\Desktop\Xamarin Projects\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\CopyFilesToMac\Entitlements.plist.NoneOutput.stamp
 C:\Users\manik\OneDrive\Desktop\Xamarin Projects\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\CopyFilesToMac\Info.plist.NoneOutput.stamp
+C:\Users\manik\OneDrive\Desktop\Xamarin Projects\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Plugin.Permissions.dll
+C:\Users\manik\OneDrive\Desktop\Xamarin Projects\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Plugin.Permissions.pdb
+C:\Users\manik\OneDrive\Desktop\Xamarin Projects\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\TravelRecordApp.iOS.csprojAssemblyReference.cache
+C:\Users\manik\OneDrive\Desktop\Xamarin Projects\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\CopyFilesToMac\Plugin.Permissions.dll.ReferenceCopyLocalPaths.stamp
+C:\Users\manik\OneDrive\Desktop\Xamarin Projects\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\CopyFilesToMac\Plugin.Permissions.pdb.ReferenceCopyLocalPaths.stamp
