@@ -1,6 +1,6 @@
 ﻿namespace Plugin
 {
-    internal class CurrentActivity
+    internal class CurrentActivityDeprecated
     {
         public static object CrossCurrentActivity { get; internal set; }
     }
