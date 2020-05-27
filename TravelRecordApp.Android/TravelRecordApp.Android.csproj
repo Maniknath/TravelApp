@@ -16,7 +16,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v9.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
@@ -65,6 +64,9 @@
     <PackageReference Include="Xamarin.Forms.Maps">
       <Version>4.6.0.726</Version>
     </PackageReference>
+    <PackageReference Include="Plugin.CurrentActivity">
+      <Version>2.1.0.4</Version>
+    </PackageReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
@@ -100,7 +102,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TravelRecordApp\TravelRecordApp.csproj">
-      <Project>{01849064-D9E8-4C10-8BB5-468A9DE9267A}</Project>
+      <Project>{831334DB-326D-4DF5-8F51-92AC907EB470}</Project>
       <Name>TravelRecordApp</Name>
     </ProjectReference>
   </ItemGroup>
